@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.14.0-dev.3451+d8d2aa9af",
     .dependencies = .{
         .afl_kit = .{
-            .url = "git+https://github.com/kristoff-it/zig-afl-kit#68614a262c029986a3e8ff5e8dc3ed534ec92a7e",
-            .hash = "zig_afl_kit-0.1.0-3k74fQAdAAC3Dirqem0LWMirHM4UNqKEriGgVMAak9_5",
+            .url = "git+https://github.com/kristoff-it/zig-afl-kit#676a439919c8ed736a84097f483d47d679f7e9df",
+            .hash = "zig_afl_kit-0.1.0-3k74fQAdAABrirJM84Lo-lnl9mnUMwtJCSPPyIJ0OzAr",
             .lazy = true,
         },
         .tracy = .{
